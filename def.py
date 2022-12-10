@@ -1,5 +1,6 @@
 a=int(input())
 f=0
+#this line is added by PyProgder
 for i in range(2,a):
     if a%i==0:
         f=1
